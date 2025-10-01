@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 58.78.162.16
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1747328153653
+  login: 1747325216846
+money: '0'
+last-account-name: orchid___
+logoutlocation:
+  world: e8c0393d-a2b9-4d46-8e35-890c08002f12
+  world-name: world
+  x: -289.50040674221276
+  y: 100.70114667377239
+  z: -302.6596077678013
+  yaw: -94.9912109375
+  pitch: 4.0244269371032715
+nickname: 25윤성우
+lastlocation:
+  world: e8c0393d-a2b9-4d46-8e35-890c08002f12
+  world-name: world
+  x: -120.30211228593515
+  y: 106.0
+  z: 358.94775377704127
+  yaw: -101.230224609375
+  pitch: 63.98950958251953

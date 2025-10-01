@@ -1,0 +1,30 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 58.29.34.80
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1746531277594
+  login: 1746530908243
+money: '0'
+last-account-name: kate3196
+logoutlocation:
+  world: e8c0393d-a2b9-4d46-8e35-890c08002f12
+  world-name: world
+  x: -7.96010552442707
+  y: 104.0
+  z: -1.6312840990040807
+  yaw: -86.4000244140625
+  pitch: 12.600044250488281

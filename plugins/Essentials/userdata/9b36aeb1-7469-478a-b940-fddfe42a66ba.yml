@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 192.168.50.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1751286178567
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1759332894642
+  login: 1759332832386
+money: '0'
+last-account-name: Exynos12
+lastlocation:
+  world: e8c0393d-a2b9-4d46-8e35-890c08002f12
+  world-name: world
+  x: -315.51333726053355
+  y: 92.0
+  z: -297.0749423436249
+  yaw: 22.7685546875
+  pitch: 11.699617385864258
+logoutlocation:
+  world: e5c4af74-19dc-4710-a364-99243bf71375
+  world-name: world
+  x: -12.888814807547053
+  y: 85.0
+  z: -9.125129500465025
+  yaw: -131.70150756835938
+  pitch: 31.049962997436523
+nickname: 25최재성

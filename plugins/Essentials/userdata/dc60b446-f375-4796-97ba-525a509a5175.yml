@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 180.70.9.50
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1747392661481
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1752922071036
+  login: 1752922008201
+money: '0'
+last-account-name: zxcvqaew
+logoutlocation:
+  world: e8c0393d-a2b9-4d46-8e35-890c08002f12
+  world-name: world
+  x: 2109.0798046037576
+  y: 74.9375
+  z: -2289.157415482763
+  yaw: 72.89139556884766
+  pitch: 19.042648315429688
+nickname: 이강현
+lastlocation:
+  world: e8c0393d-a2b9-4d46-8e35-890c08002f12
+  world-name: world
+  x: -161.72686290826502
+  y: 92.0
+  z: -322.5280100525683
+  yaw: 67.99319458007812
+  pitch: 9.450130462646484

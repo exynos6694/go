@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 1.228.123.32
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1753297003640
+  login: 1753296767483
+money: '0'
+last-account-name: Ka_lio
+logoutlocation:
+  world: e8c0393d-a2b9-4d46-8e35-890c08002f12
+  world-name: world
+  x: -165.44574788724753
+  y: 127.0
+  z: -76.94661040477342
+  yaw: 86.0810546875
+  pitch: 6.749451160430908
+lastlocation:
+  world: e8c0393d-a2b9-4d46-8e35-890c08002f12
+  world-name: world
+  x: -304.3217904242446
+  y: 51.0
+  z: -3.961707986807009
+  yaw: 21.885345458984375
+  pitch: 74.69998931884766
+nickname: §c25송연우

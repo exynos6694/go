@@ -1,0 +1,31 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 121.183.150.11
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1750777917941
+  login: 1750777825580
+money: '0'
+last-account-name: Evnii0712
+nickname: 25김가온
+logoutlocation:
+  world: e8c0393d-a2b9-4d46-8e35-890c08002f12
+  world-name: world
+  x: -316.6142008673193
+  y: 92.0
+  z: -252.36057085342824
+  yaw: -139.34588623046875
+  pitch: 23.999752044677734

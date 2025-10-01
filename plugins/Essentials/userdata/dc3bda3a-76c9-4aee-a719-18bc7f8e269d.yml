@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 124.54.216.53
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1753296975942
+  login: 1753296537637
+money: '0'
+last-account-name: Sjin06
+logoutlocation:
+  world: e8c0393d-a2b9-4d46-8e35-890c08002f12
+  world-name: world
+  x: 54.35402552063174
+  y: 90.0
+  z: -32.968312841760884
+  yaw: -43.365234375
+  pitch: 21.733585357666016
+nickname: 25신성진
+lastlocation:
+  world: e8c0393d-a2b9-4d46-8e35-890c08002f12
+  world-name: world
+  x: 54.633537270993855
+  y: 90.5
+  z: -28.905296722930245
+  yaw: 130.98626708984375
+  pitch: 32.565460205078125

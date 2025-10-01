@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 180.228.96.28
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1750871906442
+  login: 1750870573332
+money: '0'
+last-account-name: jeonhj060317
+logoutlocation:
+  world: e8c0393d-a2b9-4d46-8e35-890c08002f12
+  world-name: world
+  x: -302.3894894677277
+  y: 117.58370927389653
+  z: -153.30000001192093
+  yaw: 38.8492431640625
+  pitch: -18.45003890991211
+lastlocation:
+  world: e8c0393d-a2b9-4d46-8e35-890c08002f12
+  world-name: world
+  x: -323.5090987883096
+  y: 92.0
+  z: -264.66310301274746
+  yaw: -62.88037109375
+  pitch: 64.35002899169922
+nickname: 25전형주

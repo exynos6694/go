@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 114.207.121.172
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1747400614168
+  login: 1747399798718
+money: '0'
+last-account-name: oibaef
+nickname: 25김민
+logoutlocation:
+  world: e8c0393d-a2b9-4d46-8e35-890c08002f12
+  world-name: world
+  x: -264.45671080680216
+  y: 92.0
+  z: -276.0069199376134
+  yaw: 0.449462890625
+  pitch: 2.335972547531128
+lastlocation:
+  world: e8c0393d-a2b9-4d46-8e35-890c08002f12
+  world-name: world
+  x: -50.34340589492973
+  y: 167.91793826969055
+  z: -14.25232291930752
+  yaw: 127.905517578125
+  pitch: 5.841083526611328

@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 59.13.137.126
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1751272677651
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1751274165621
+  login: 1751270835892
+money: '0'
+last-account-name: sueyeon
+logoutlocation:
+  world: e8c0393d-a2b9-4d46-8e35-890c08002f12
+  world-name: world
+  x: -189.55695044005324
+  y: 141.6024896046329
+  z: -52.95410383169918
+  yaw: -124.3555908203125
+  pitch: 12.450384140014648
+nickname: §a수연
+lastlocation:
+  world: e8c0393d-a2b9-4d46-8e35-890c08002f12
+  world-name: world
+  x: 1559.322356325795
+  y: 103.13566032692842
+  z: -1814.3809120139085
+  yaw: 61.165496826171875
+  pitch: -2.100457191467285

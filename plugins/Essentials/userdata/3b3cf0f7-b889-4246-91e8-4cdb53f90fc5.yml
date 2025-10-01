@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 180.65.181.57
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1750871653900
+  login: 1750870809249
+money: '0'
+last-account-name: solladi_
+logoutlocation:
+  world: e8c0393d-a2b9-4d46-8e35-890c08002f12
+  world-name: world
+  x: -74.53396092455601
+  y: 135.0
+  z: -137.3820005858718
+  yaw: 48.873046875
+  pitch: 12.599821090698242
+lastlocation:
+  world: e8c0393d-a2b9-4d46-8e35-890c08002f12
+  world-name: world
+  x: 27.861685531768405
+  y: 184.0
+  z: 72.93148291984356
+  yaw: -7.853019714355469
+  pitch: 13.800222396850586
+nickname: 25서강윤

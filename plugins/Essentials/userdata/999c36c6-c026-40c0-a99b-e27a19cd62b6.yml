@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 211.229.194.8
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1750486675687
+  login: 1750486654644
+money: '0'
+last-account-name: LSH_hello
+logoutlocation:
+  world: e8c0393d-a2b9-4d46-8e35-890c08002f12
+  world-name: world
+  x: -300.2497057702014
+  y: 69.0
+  z: -499.45584513814345
+  yaw: -1.90283203125
+  pitch: 24.716726303100586
+lastlocation:
+  world: e8c0393d-a2b9-4d46-8e35-890c08002f12
+  world-name: world
+  x: -333.6888401985732
+  y: 94.51020346974411
+  z: -262.8422520994074
+  yaw: 42.7493896484375
+  pitch: 7.200081825256348
+nickname: §e본좌이승희

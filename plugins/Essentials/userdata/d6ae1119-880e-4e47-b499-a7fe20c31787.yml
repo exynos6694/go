@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 14.47.110.211
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1746381108440
+  login: 1746375841731
+money: '0'
+last-account-name: ul88
+logoutlocation:
+  world: e8c0393d-a2b9-4d46-8e35-890c08002f12
+  world-name: world
+  x: -352.1943594694457
+  y: 103.0
+  z: -190.30000001192093
+  yaw: -171.19422912597656
+  pitch: 30.06890296936035
+lastlocation:
+  world: e8c0393d-a2b9-4d46-8e35-890c08002f12
+  world-name: world
+  x: 15.311881624250564
+  y: 99.7531999805212
+  z: -13.649240115672452
+  yaw: -61.682376861572266
+  pitch: 29.37804412841797
+nickname: §e유승우?

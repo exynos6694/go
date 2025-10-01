@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 192.168.50.1
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 1746897250181
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1759332732343
+  login: 1759332709076
+money: '0'
+last-account-name: substaff
+lastlocation:
+  world: 70f57851-2519-4740-b710-7389ea315c87
+  world-name: world_nether
+  x: 98.38650544509196
+  y: 226.36412829851074
+  z: -39.65680556429033
+  yaw: -178.282470703125
+  pitch: 23.699968338012695
+logoutlocation:
+  world: e5c4af74-19dc-4710-a364-99243bf71375
+  world-name: world
+  x: 8.850644601236285
+  y: 90.0
+  z: -5.243926462499961
+  yaw: 81.898193359375
+  pitch: 68.55011749267578
+nickname: §7substaff

@@ -1,0 +1,1 @@
+{"name":"go","description":null,"version":"1.21.8","color":4278228616,"text_color":4278190080,"icon":null,"manager":null,"log_decoder":null,"run_config":{"type_id":"jar_file","data":{"jre_exec":null,"jar_path":"purpur-1.21.8-2497.jar","xms_mb":16384,"xmx_mb":16384}},"ngrok_option":null}

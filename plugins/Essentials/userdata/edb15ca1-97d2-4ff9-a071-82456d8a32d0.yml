@@ -1,0 +1,39 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 114.71.206.85
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1751358680192
+  login: 1751358583756
+money: '0'
+last-account-name: Ysw0521_
+lastlocation:
+  world: e8c0393d-a2b9-4d46-8e35-890c08002f12
+  world-name: world
+  x: -28.68809944295619
+  y: 110.17675927506424
+  z: -33.245997165085804
+  yaw: 113.44233703613281
+  pitch: 24.12284278869629
+nickname: §4유승우
+logoutlocation:
+  world: e8c0393d-a2b9-4d46-8e35-890c08002f12
+  world-name: world
+  x: -336.4845330166773
+  y: 85.0
+  z: -235.66898455115455
+  yaw: 90.68655395507812
+  pitch: 12.899986267089844
