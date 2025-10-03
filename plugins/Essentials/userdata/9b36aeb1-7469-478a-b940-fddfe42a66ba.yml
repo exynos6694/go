@@ -3,7 +3,7 @@ teleportauto: false
 godmode: false
 muted: false
 jailed: false
-ip-address: 192.168.50.1
+ip-address: 127.0.0.1
 afk: false
 socialspy: false
 npc: false
@@ -16,8 +16,8 @@ timestamps:
   mute: 0
   jail: 0
   onlinejail: 0
-  logout: 1759332894642
-  login: 1759332832386
+  logout: 1759453266775
+  login: 1759453209186
 money: '0'
 last-account-name: Exynos12
 lastlocation:
@@ -29,11 +29,11 @@ lastlocation:
   yaw: 22.7685546875
   pitch: 11.699617385864258
 logoutlocation:
-  world: e5c4af74-19dc-4710-a364-99243bf71375
+  world: ffc83cdf-0547-4816-9ffb-cc4eeed7a64c
   world-name: world
-  x: -12.888814807547053
-  y: 85.0
-  z: -9.125129500465025
-  yaw: -131.70150756835938
-  pitch: 31.049962997436523
+  x: -20.307996040411698
+  y: 72.0
+  z: -34.50061826823445
+  yaw: 39.0003547668457
+  pitch: 34.80026626586914
 nickname: 25최재성

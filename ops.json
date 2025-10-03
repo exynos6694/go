@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "uuid": "9b36aeb1-7469-478a-b940-fddfe42a66ba",
+    "name": "Exynos12",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "0ba0a3e3-a3a0-4a76-9f30-ccc8d63162ed",
+    "name": "Exynos",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
